@@ -1,2 +1,16 @@
+bin/
+bin.txt
+Core/
+core.txt
+DZ/
+graphics/
+graphics.txt
+gui/
+gui.txt
+languagecore/
+languagecore.txt
+scripts/
+scripts.txt
+system/
+system.txt
 dist/
-
