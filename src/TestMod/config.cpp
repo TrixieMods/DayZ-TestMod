@@ -18,7 +18,7 @@ class CfgMods
 			class worldScriptModule		
             {
                 value = "";
-                files[] = {"TM/TestMod/WorldScripts"};
+                files[] = {"mods/src/TestMod/WorldScripts"};
             };
         };
     };
